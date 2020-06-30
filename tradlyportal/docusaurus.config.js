@@ -101,14 +101,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradly-portal/',
+            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradlyportal/',
       
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradly-portal/blog/',
+            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradlyportal/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
