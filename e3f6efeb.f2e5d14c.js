@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{149:function(a){a.exports=JSON.parse('{"allTagsPath":"/marketplace-api/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/marketplace-api/blog/tags/facebook"}')}}]);
