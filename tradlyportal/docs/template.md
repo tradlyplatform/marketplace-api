@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: template
 title: Style Guide
 sidebar_label: Style Guide
 ---

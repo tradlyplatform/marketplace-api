@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: 'Tradly Platform',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Tradly Platform Logo',
         src: 'img/logo.svg',
       },
       links: [
@@ -20,9 +20,18 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'left'
+        },
+        {
+          href: '/api-reference.html', 
+          label: 'API Reference', 
+          position: 'right'
+        },
+        {
+          href: 'https://github.com/TRADLY-PLATFORM/marketplace-api',
           label: 'GitHub',
           position: 'right',
         },
@@ -92,13 +101,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/gh-pages/',
+            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradly-portal/',
+      
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/website/blog/',
+            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradly-portal/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
