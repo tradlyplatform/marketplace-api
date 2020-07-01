@@ -1,39 +1,44 @@
 import React from 'react';
+
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import * as Sentry from '@sentry/react';
+
+Sentry.init({
+     dsn: "https://901016d24f914c26baa6baeb659ab046@o396771.ingest.sentry.io/5304658"
+ });
+
+
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Introductions</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Find informations about TradlyPlatform, API and it's ecosystem. Plus info on sandbox access, testing your apps, and how we deploy into app stores.
+
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Use Cases & Features</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+        Explore what you can do with TradlyPlatform infrastructure with different industry examples. And see through all the features available under SuperAdmin and Apps .</>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>How to Guides</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Already using our infrastructure? Read step by step information on configuring your SuperAdmin dashboard to suit your business + Extensions integrations. 
       </>
     ),
   },
