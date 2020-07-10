@@ -1,23 +1,29 @@
 ---
 id: appfeatures
-title: 25+ features available in tradly apps
+title: Features available in tradly apps
 sidebar_label: App features
 ---
-This document will cover most of the features available in the app. The terms used may vary based on business nature but the 
-functional element are mostly applicable for many marketplace. 
+This document will cover most of the features available in the app. The terms used may vary based on business nature but the functional element are mostly applicable for many marketplace. 
 
 For any doubts, feel free to message instantly on our chat or emails at team@tradly.app
 
-<b>Listings </b>: We call everything posted by the user as Listing. But it can also be called as Post, Product, Service Advertisement, Classified post, 
-Task, Notes, Energy Stations, etc. However we try to create as much as personalised terms according to the business nature on the solutions(usecases) guide section.
+### Listings
+We call everything posted by the user as Listing. But it can also be called as Post, Product, Service Advertisement, Classified post, Task, Notes, Energy Stations, etc. However we try to create as much as personalised terms according to the business nature on the solutions(usecases) guide section.
 
-
-<b>Account </b>: When a user register in the app, he will be optionally able to create accounts based on his purpose of joining the platform. 
-- For a retail product marketplace like Etsy/AliExpress, Accounts are called as stores. 
+### Account
+When a user register in the app, he will be optionally able to create accounts based on his purpose of joining the platform. 
+- For a retail product marketplace like Etsy/AliExpress, Accounts are called as Stores Profiles. 
 - For an educational marketplace like Coursera, Udemy, Accounts are called as Tutor Profiles
 - For a property marketplace platform like Airbnb, it is called as Tenant Profile. 
 We call them generally as accounts and it may vary based on your business model. As a functional element it is used to create accounts. 
 
+
+#### Account Attributes
+You can create additional attributes(fields) of information to be collected when user open an account.
+Example such as 
+- Fashion Marketplace ( can have location, What type of products they sell, etc)
+- EduTech marketplace (Tutor availability, Expertise, Academic qualifications , etc) 
+- Grocery Marketplace( Shop Location , Type of product they sell, Growing method(Organic), Procurement(home made or Direct farm buy or resell) 
 
 ## Different Login system
 <b> User Story </b>:  An user who wants to register inside your apps to start using your services. 
@@ -97,8 +103,9 @@ A platform owner can configure custom fields/Attributes on listings submission p
     * For agriculture marketplace> Price per: Gram, Kilogram 
     * For property marketplace> Rental Price: Per day, per week, per month.   
 
+:::note
 Configuration: You can configure attributes by all 4 level categories. 
-
+:::
 
 ## Advanced 4 Level category
 As a platform owner when you want to build high level marketplace to have deeper categorisation. 
@@ -119,10 +126,13 @@ Tops, Coats, Beachwear, Bridal wear and Jeans are 3rd level category
 Skinny leg is a 4th level category
 
 - Based on your business nature, you can use this in different ways. You can use category to allow users to discover somethings or find different set of needs based on how you plan it. 
-- You can add attributes based on 
+- You can add attributes based on parent and child categories  
 
+:::note
 Configuration: 
 When you configure an attribute for 4th level , the attribute is only available for 4th level and not to its parent level categories. You need to select/add the parent categories and child categories wherever it’s applicable. [LINK] more info available here on how to configure this. 
+:::
+
 
 ## Notification center
 An user able to get the updates about different things to keep him updated
@@ -225,8 +235,9 @@ Coming soon
 ## Ratings & Reviews
 User able to rate and review the listings he recently got serviced, purchased, made bookings, etc to share his experiences
 
+:::note
 Configuration: Similar like listing attributes, platform owner can design what sort of informations he wants to collect from the user on the rating and review page
-
+:::
 Currently available: 
 - Rating (5 Stars) 
 - Type of ratings
@@ -243,5 +254,7 @@ Coming soon
 ## Cart
 User able to add multiple items to his shopping cart to make a single transaction 
 - When a user make a purchase from different sellers, A single transaction is created to show his purchase amount, amount charged on card, time, etc.
-- However unique orders will be created per seller to allow your users to track the shipment on seller level
+- However unique orders will be created per seller to allow your users to track the shipment on seller level.
+
+Did we miss anything?
 
