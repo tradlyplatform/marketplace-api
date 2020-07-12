@@ -6,7 +6,17 @@ module.exports = {
   favicon: 'img/favicon.svg',
   organizationName: 'TRADLY-PLATFORM', // Usually your GitHub org/user name.
   projectName: 'marketplace-api', // Usually your repo name.
+  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
+    "googleAnalytics": {
+      "trackingID": "UA-143764314-1",
+      "anonymizeIP": true
+    },
+    gtag: {
+      trackingID: 'UA-143764314-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'Tradly Platform',
       logo: {

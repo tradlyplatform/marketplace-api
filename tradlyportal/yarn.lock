@@ -1104,10 +1104,20 @@
     "@docusaurus/types" "^2.0.0-alpha.58"
     "@docusaurus/utils" "^2.0.0-alpha.58"
 
+"@docusaurus/plugin-google-analytics@^2.0.0-alpha.37":
+  version "2.0.0-alpha.37"
+  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-alpha.37.tgz#e546bf61b35d4abd7e65bb9c4f6c02ba5c2297e3"
+  integrity sha512-RCR2UHL6OyYSupRxVn0x4PBJf4VJ1Xob/5Ps0ang915KfrUjLh51aXtvtx3SlRqsMJQt0aS/K5RFsPrpyfP38g==
+
 "@docusaurus/plugin-google-analytics@^2.0.0-alpha.58":
   version "2.0.0-alpha.58"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-alpha.58.tgz#5586f843a518250f9f8ca1178fa77533971bef42"
   integrity sha512-R4I8j+XJkOl7fz8+lRnQKr8YP4zrG6dWBNZ66JquUwL6jmaavq1VRVavm7/s5Wr/vYLcpEWjynHViwDdVLegoQ==
+
+"@docusaurus/plugin-google-gtag@^2.0.0-alpha.37":
+  version "2.0.0-alpha.37"
+  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-alpha.37.tgz#3bf992e2722fcd71afac5bb7df49824eb191d186"
+  integrity sha512-TyAtMSpFstDFQ/O95wsHfoZ8T4x0plsCCFDRk3NK0soXz7qtAbk+Rnxu6TCcfruvL/MPW4197NQxR69u3ivTsA==
 
 "@docusaurus/plugin-google-gtag@^2.0.0-alpha.58":
   version "2.0.0-alpha.58"
@@ -7731,7 +7741,7 @@ react-toggle@^4.1.1:
   dependencies:
     classnames "^2.2.5"
 
-react@^16.8.4:
+react@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==
