@@ -5,6 +5,14 @@ sidebar_label: How To
 ---
 
 
+####How to 
+[Image goes here]
+- RED BOX: You have mandatory fields information 
+- GREEN BOX: Attributes. Attributes are not mandatory, completely configurable, can add or remove from superadmin panel . 
+
+- Attributes are configurable in advanced manner. You can configure attributes per category or overall by including all categories when creating attributes. 
+
+- IMPORTANT: Always remember to add new categories in all attributes when you create new categories
 
 
 

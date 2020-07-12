@@ -67,17 +67,17 @@ Note: There is no limit for number of banners to be active
 ### <Highlight color="#25c2a0"> Collection Widget </Highlight>
 Coming soon.  You can have multiple collection widget on the home page
 
-## One time pre launch customization you can make
+## One time pre launch customizations
 You will be able to make the below customisation before the app gets published in the respective stores. This is done after you make the first payment with return policy if you are not happy about it. 
-- Color of the app. Example: All the things you see as primary color(mostly in our demo apps, you will find gree) can be changed to your brand primary 
-- Logo, Favicons, 
-- Base language of the app (+ Additional languages: You need to provide a translated file after we shared you the source)
-- Base currency 
-- Terms & Conditions URL
-- Privacy URL 
-- Texts used in the app 
-- Login method and Login API-Keys & Credentials
-- And the below things based on the details below
+- [ ] Color of the app. Example: All the things you see as primary color(mostly in our demo apps, you will find gree) can be changed to your brand primary 
+- [ ] Logo, Favicons, 
+- [ ] Base language of the app (+ Additional languages: You need to provide a translated file after we shared you the source)
+- [ ] Base currency 
+- [ ] Terms & Conditions URL
+- [ ] Privacy URL 
+- [ ] Texts used in the app 
+- [ ] Login method and Login API-Keys & Credentials
+- [ ] And the below things based on the details below
 
 ### <Highlight color="#1877F2"> Groups </Highlight>
 As a platform owner, you can let the developers know if you want to activate groups feature.
