@@ -37,7 +37,7 @@ Launching your apps in Apple AppStore involves more process than Google Playstor
 
 1. Buy Apple Appstore developer licence 
 2. Developer level access to Tradly Team (team@tradly.app) 
-3. 
+3. Coming soon
 
 
 Steps in Apple Store approval process. 

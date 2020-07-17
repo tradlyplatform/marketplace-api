@@ -17,6 +17,12 @@ module.exports = {
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
+    algolia: {
+      apiKey: '46e3a046b3ec681ea19c49ac9eb069a9',
+      indexName: 'tradly_platform',
+      appId: 'app-id', // Optional, if you run the DocSearch crawler on your own
+      algoliaOptions: {}, // Optional, if provided by Algolia
+    },
     navbar: {
       title: 'Tradly Platform',
       logo: {

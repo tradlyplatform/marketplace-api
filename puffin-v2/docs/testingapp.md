@@ -9,12 +9,14 @@ Testing your app involves # steps
 3. iOS App Invite
 
 ## Get Superadmin access for the sandbox account
-- Send us a request for superadmin access if you want to have blank account and setup things from scratch [LINK]
+- Send us a request for superadmin access if you want to have blank account and setup things from scratch [https://tradly.app]([https://tradly.app])
 - You may access the predefined superadmin dashboard for a marketplace platform using this credentials
-[LINK]
+URL: https://admin.sandbox.tradly.app/
+Username: clientdemo@tradly.app
+Password: 12345678
 
 :::important
-Tradly will also provide a client ID/Tenat ID. When your first access the app, you must enter this ID first before you proceed into the app.
+Tradly will need to provide you a client ID/Tenat ID. When your first access the app, you must enter this ID first before you proceed into the app.
 :::
 
 ## Accessing/Using your Android App
