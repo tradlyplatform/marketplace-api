@@ -1,8 +1,7 @@
 ---
 id: facebookapp
-title: Integrating Facebook App with your apps
+title: Integrating Facebook Pixels & Analytics
 sidebar_label: Facebook App
 ---
 
-# Dummy Title
-Lorem ipsume
+coming soon. 

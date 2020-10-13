@@ -86,8 +86,9 @@ Once you are into specific attribute, you can find the existing values and ADD n
 
 This example values how attribute values could be used. For an digital gadgets marketplace, it might want to allow users to submit listings with details like SPACE or VERSION of a certain device, so that the buyers can filter the right products.
 
-
-
+FAQ: 
+1. When I work with Attributes and select the value to work with; let's say Vegetables, do all the sub-categories like Squash Vegetables etc get selected?
+No it’s not applied automatically from child to parent. Each subcategories need to be selected specifically.
 
 ## Accounts (Users/Profiles)
 [Explanation of accounts available here](docs/appfeatures#account)
@@ -192,3 +193,15 @@ Let's use USD to MYR as example
 - FORMAT: You can format how you want the currency should look like with the amount in front end apps. Example: @ {amount}. Here '@' -> you an replace any symbols here. It could be a dollar or a unicode symbol
 - ![Google conversion](/img/google-conversion.png)
 
+## Supply Commission
+- Go to SuperAdmin Panel > Revenue Model > Supply commission
+- You will find list of commissions already created or empty. You will have only one active commission model. And you can other commission model planned and activate for any special occassion (Example: For 3months, you can charge very less commission. 
+- Create new. 
+![supply-commission](/img/supply-commission.png)
+
+1. You can configure default fee if you don't prefer a category fee. If there is category based commission applied, the default fee will be overrided with this new fee. If there is a case when you have fifteen(15)categories, you have created category based commission only for five(5) categories, other categories will take the default commission rate
+2. Multi-Selection field allow you to select multi-categories
+3. If you want to have slab based commission for a specific category, you can apply as well. Let's say if you want to have SLAB based across all categories, then you will have to select all categories in the MULTI-SELECTION(2) field and save.
+4. Commission percentage. Enter a number without % symbol
+5. Add another line of category using the CTA
+6. An example view of how to configure SLAB based percentages. 

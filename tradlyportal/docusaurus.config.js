@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.svg',
   organizationName: 'TRADLY-PLATFORM', // Usually your GitHub org/user name.
-  projectName: 'marketplace-api', // Usually your repo name.
+  projectName: 'puffin', // Usually your repo name.
   plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     "googleAnalytics": {
@@ -41,7 +41,7 @@ module.exports = {
           position: 'right'
         },
         {
-          href: 'https://github.com/TRADLY-PLATFORM/marketplace-api',
+          href: 'https://github.com/TRADLY-PLATFORM/puffin',
           label: 'GitHub',
           position: 'right',
         },
@@ -68,19 +68,19 @@ module.exports = {
           items: [
             {
               label: 'Technical Enquiry',
-              href: 'https://github.com/TRADLY-PLATFORM/marketplace-api/issues/new',
+              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new',
             },
             {
               label: 'Submit Bug',
-              href: 'https://github.com/TRADLY-PLATFORM/marketplace-api/issues/new?assignees=&labels=&template=bug_report.md&title=',
+              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new?assignees=&labels=&template=bug_report.md&title=',
             },
             {
               label: 'Feature Request',
-              href: 'https://github.com/tradlyplatform/marketplace-api/issues/new?assignees=&labels=&template=feature_request.md&title=',
+              href: 'https://github.com/tradlyplatform/puffin/issues/new?assignees=&labels=&template=feature_request.md&title=',
             },
             {
               label: 'Product Roadmap',
-              href: 'https://github.com/TRADLY-PLATFORM/marketplace-api/projects/1',
+              href: 'https://github.com/TRADLY-PLATFORM/puffin/projects/1',
             },
           ],
         },
@@ -93,7 +93,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/TRADLY-PLATFORM/marketplace-api',
+              href: 'https://github.com/TRADLY-PLATFORM/puffin',
             },
           ],
         },
@@ -111,14 +111,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradlyportal/',
+            'https://github.com/TRADLY-PLATFORM/puffin/edit/master/puffin-v2/',
       
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/marketplace-api/edit/master/tradlyportal/blog/',
+            'https://github.com/TRADLY-PLATFORM/puffin/edit/master/puffin-v2/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

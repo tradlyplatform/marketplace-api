@@ -66,8 +66,14 @@ Currently  available
 - Recent list of accounts/stores/profiles 
 - Recent list of Listings/Ideas/Postings/Ads
 
-Coming soon on self serve platform (Available immediately based on manual request) 
+Coming soon on SuperAdmin panel (Available immediately based on manual request) 
 - Custom collections based on tags
+- Using Attributes filter
+- Category (multiple)
+- Listing title
+- Price (less than, greater than, etc)
+- Offer percent (less than, greater than)
+- Location (kilometer/miles radius)
 
 ## Banners
 A platform owner able to use this media section to show any sort of communication on this prime placement. 
@@ -94,7 +100,6 @@ The chat feature is more or less like the WhatsApp features which allows the use
 ## Hybrid Listing Page
 A platform owner can configure custom fields/Attributes on listings submission personalised to categories 
 
-[Image] 
 
 * When a user add a listing >  on top of the title, description, category, images, List price, offer percent, tags (as you seen in the redbox)> we can add other attributes as a field to collect more information.  
 * Example Scenarios  
@@ -130,25 +135,25 @@ Skinny leg is a 4th level category
 
 :::note
 Configuration: 
-When you configure an attribute for 4th level , the attribute is only available for 4th level and not to its parent level categories. You need to select/add the parent categories and child categories wherever it’s applicable. [LINK] more info available here on how to configure this. 
+When you configure an attribute for 4th level , the attribute is only available for 4th level and not to its parent level categories. You need to select/add the parent categories and child categories wherever it’s applicable. 
 :::
 
 
 ## Notification center
-An user able to get the updates about different things to keep him updated
+An user able to get the updates about different things to keep updated
 
-Currently available 
-- App Update notifications
+
 - Chat message notifications
-- An another user followed
-- An another user liked his/her listings
+- An account owner receive a notifcation when someone followed the account
+- An account owner receive a notifcation when someone like the listing
+- An account owner or buyer receiving status update about his orders
 
-Coming soon
-- When a listings posted by followed accounts
-- Somebody reported his listings
-- Somebody made a review about his product 
-- Group joining request
-- Change in order status 
+<img src="/img/notification-center.png" alt="notification-center" width="300"/>
+
+Coming soon 
+- Account owner(Ex:Store owner) receive a notification when buyer made a review.
+- Users receive a notifcation When a listings posted by followed accounts.
+
 
 
 ## Flexible Account creation

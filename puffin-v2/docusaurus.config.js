@@ -41,11 +41,7 @@ module.exports = {
           label: 'Blog', 
           position: 'left'
         },
-        {
-          href: '/api-reference.html', 
-          label: 'API Reference', 
-          position: 'right'
-        },
+        
         {
           href: 'https://github.com/TRADLY-PLATFORM/puffin',
           label: 'GitHub',
@@ -82,7 +78,7 @@ module.exports = {
             },
             {
               label: 'Feature Request',
-              href: 'https://github.com/tradlyplatform/puffin/issues/new?assignees=&labels=&template=feature_request.md&title=',
+              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new?assignees=&labels=&template=feature_request.md&title=',
             },
             {
               label: 'Product Roadmap',
