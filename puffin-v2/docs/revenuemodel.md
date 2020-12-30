@@ -10,7 +10,7 @@ Based on your company strategy, you can opt for different revenue models. Curren
 
 For other revenue model and payment gateways, contact us to know about the roadmap and possibility.
 
-## Understanding the fee in short
+## Understanding how payin and payout works 
 Taking Australia as example. [Refer pricing](https://stripe.com/au/pricing)
 
 - When your customer buy an item for $100, Stripe charges a transaction fee of **1.75% + A$0.30.** Hence 2.05 goes to Stripe
@@ -27,3 +27,5 @@ Taking Australia as example. [Refer pricing](https://stripe.com/au/pricing)
 
 #Refund Model
 
+- Q: If I complete an order and want to cancel it but I already paid through online payment, how would the return process be done?
+- A: When the return is initiated, seller will be notified and seller/platform owner has to arrange a pickup from buyer to get the product to seller. Once the return is confirmed by the seller, refund will be initiated. If seller see some defect in the returned product, seller will raise a dispute and platform owner has to intervene and resolve it.
