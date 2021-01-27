@@ -101,12 +101,12 @@ The chat feature is more or less like the WhatsApp features which allows the use
 A platform owner can configure custom fields/Attributes on listings submission personalised to categories 
 
 
-* When a user add a listing >  on top of the title, description, category, images, List price, offer percent, tags (as you seen in the redbox)> we can add other attributes as a field to collect more information.  
+* When a user add a listing >  on top of the title, description, category, images, List price, offer percent, tags (as you seen in the redbox)> we can add other attributes as a field to collect more information. 
 * Example Scenarios  
-    * Product type: used or new  
-    * For fashion marketplace   Item material: Cotton, Linen OR  Item color: Red, blue, Green 
-    * For agriculture marketplace> Price per: Gram, Kilogram 
-    * For property marketplace> Rental Price: Per day, per week, per month.   
+    * Product type: used or new 
+    * For fashion marketplace   Item material: Cotton, Linen OR  Item color: Red, blue, Green
+    * For agriculture marketplace> Price per: Gram, Kilogram
+    * For property marketplace> Rental Price: Per day, per week, per month.  
 
 :::note
 Configuration: You can configure attributes by all 4 level categories. 
@@ -166,6 +166,10 @@ As a platform owner, you can design different account creation form based on the
 - You can create additional attributes specific to an account category rather than overall 
 
 
+## Geo Location 
+User able to add location in different scenarios to help the selling and buying experiences.
+- Sellers able to add locations while their creating the store, this helps when buyers find nearby stores (on collection widget) 
+- Sellers able to add location while adding listings/products (They can opt to remove as well), so their items shows up in listing search.
 
 ## Wishlist / Bookmarks / Save Listings / Favourites
 User able to add an item to his Wishlist (also called as bookmarks, save, favourite) to refer that in future for further actions 
@@ -178,7 +182,6 @@ User able to invite his friends/fans through an unique generated links
 
 - Tradly Platform use advanced deep links systems (LINK TO WIKI) to allow user to generate his invite links 
 - Invite links can be used to invite his friends on multiple channels
-- Invite 
 
 Coming soon
 - User able to see how many people have joined the app because of him 

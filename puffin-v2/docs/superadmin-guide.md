@@ -165,6 +165,9 @@ Here got details on [the use cases of banners](/appfeatures#banners)
 ### Banner Placement
 You can upload different banners for Mobile application and WebApplication with diffent dimensions/settings. 
 
+Specs:
+- App Banner size : 1280*720 (The same size you will be using it to create facebook ads on canva or anywhere)
+- The app will automatically resize the banner according to the mobile screen. The banner might take up 80% of that space apart from the padding and card UI. 
 ![Select banner placements](/img/banner-medium2.png)
 
 ![Banner Mediums](/img/banner-medium.png)

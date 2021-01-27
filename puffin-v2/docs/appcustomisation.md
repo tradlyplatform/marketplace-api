@@ -2,9 +2,6 @@
 id: appcustomisation
 title: Understanding the app customisation
 sidebar_label: Customising App
----
-
-
 export const Highlight = ({children, color}) => (
   <span
     style={{
@@ -16,6 +13,9 @@ export const Highlight = ({children, color}) => (
     {children}
   </span>
 );
+
+---
+
 
 
 As a platform owner you may wish to customise your platform UI, functionalities, wordings, etc. We have shared below on what sort of features you can customise by yourself, what features need our developer assistance, what features cannot be customised under validation package. If there is anything which is not listed here, feel free to message us on the chat. 
