@@ -91,7 +91,7 @@ FAQ:
 No it’s not applied automatically from child to parent. Each subcategories need to be selected specifically.
 
 ## Accounts (Users/Profiles)
-[Explanation of accounts available here](docs/appfeatures#account)
+[Explanation of accounts available here](/docs/appfeatures#account)
 This is visible only in production/live SuperAdmin panel and not on sandbox accounts. 
 
 ### Account Category

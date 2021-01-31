@@ -15,14 +15,16 @@ SuperAdmin panel are not hosted anywhere but in our own servers. Hence you will 
 ## 2. Google PlayStore
 Launching your apps in Google PlayStore through our managed apps will have this list of steps. 
 
-1. You buying a Google Play Developer Licence 
-2. You providing access to Google Play access to Tradly Launchpad team (The team will send you the email address) as we need to do below activities (Admin level access should be needed for the first release, later you can change to Developer only access) 
-3. Filling the informations like favicon, name, Privacy URL, etc under Superadmin is mandatory step before we go for production APK creation process. 
-4. You can fill the “Store Listing” fields also under Store Presence
-5. APK Upload process: We Download & upload the SigningKey for your app, a mandatory process for Google. [Read more here on why it’s needed](https://support.google.com/googleplay/android-developer/answer/7384423).  
-6. Our team can upload the app under your account 
-7. Wait for review, and fix any issues if highlighted by Google
-8. Let you know once it is approved. 
+1. You buying a Google Play Developer Licence in this link : https://play.google.com/apps/publish (Play publish account and not developer account)
+2. Create your first app in Google play publish
+3. You providing access to Google Play access to Tradly Launchpad team (The team will send you the email address) as we need to do below activities (Admin level access should be needed for the first release, later you can change to Developer only access) 
+4. Filling the informations like favicon, name, Privacy URL, etc under Superadmin is mandatory step before we go for production APK creation process. 
+5. You can fill the “Store Listing” fields also under Store Presence
+6. APK Upload process: We Download & upload the SigningKey for your app, a mandatory process for Google. [Read more here on why it’s needed](https://support.google.com/googleplay/android-developer/answer/7384423).  
+7. Our team can upload the app under your account 
+8. Wait for review, and fix any issues if highlighted by Google
+9. Let you know once it is approved. 
+
 
 :::important Timelines
 - Time taken to get a google Play licence: Instant
@@ -58,7 +60,7 @@ if you provide admin access, you do not need to do the below provisioning creati
 
 Ask private video resources from the slack channel on how to create the above certificates. 
 
-:::Warning
+:::warning
 You must have a macOS running computer/laptop to complete the provisioning exercises. If you do not have, setup a call with us
 :::
 
@@ -69,7 +71,7 @@ Read the integrations section for step by step information on how to signup and 
 
 Below is the list 
 - [ ] [Branch.io](branch.md)
-- [ ] [Firebase](Firebase.md)
+- [ ] [Firebase](firebase.md)
 - [ ] AppStore access (Admin) 
 - [ ] Appstore team ID ( )
 - [ ] Android  access ( ) 

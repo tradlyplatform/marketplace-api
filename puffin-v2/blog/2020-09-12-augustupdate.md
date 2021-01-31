@@ -33,7 +33,7 @@ Adding to our existing chat notifications, now you can find the permanent notifi
   - Coming soon: Showing up combined review score on profile page
 
 - **Other things**
-  - Design Kit: We have made our design kit open for our customers to test different thematic colors and UI customisation. Available [here](docs/appcustomisation#app-primary-color)
+  - Design Kit: We have made our design kit open for our customers to test different thematic colors and UI customisation. Available [here](/docs/appcustomisation#app-primary-color)
   - Updated our docs on the customisation to explain clearly what you can change and what you cannot before launching the app to Playstore and Appstore. Also their specifications of assets
   
 
