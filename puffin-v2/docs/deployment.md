@@ -3,15 +3,14 @@ id: deployment
 title: Deployment Process
 sidebar_label: Deployment
 ---
-Find the informations on how we deploy different Tradly Platform products into different tech stacks and list of activities you as a platform owner need to do and other informations from sandbox stage to live. 
+Find the informations on how we deploy different Tradly Platform products into different tech stacks and list of activities you as a platform owner need to do and other informations from sandbox stage to production. 
 
 ## 1. Superadmin
 Every platform owner whichever the products you subscribe from us will have super admin access. SuperAdmin Panel helps you to configure different settings of your apps and API in a user friendly way without coding involved. [Read more here] (superadmin.md). 
 
 SuperAdmin panel are not hosted anywhere but in our own servers. Hence you will be accessing the production superAdmin panel from this link (Https://admin.tradly.app). Apart from the sandbox access we have shared with you for testing, you will get a unique tenantID for your platform on your successful subscribed users. 
 
-
-Coming Soon: You can have multiple staffs account to access your production SuperAdmin Panel. 
+ 
 
 ## 2. Google PlayStore
 Launching your apps in Google PlayStore through our managed apps will have this list of steps. 
@@ -37,7 +36,7 @@ Launching your apps in Apple AppStore involves more process than Google Playstor
 
 1. Buy Apple Appstore developer licence 
 2. Admin level access to Tradly Team for the first release, later you can change to developer only access (The team will send you the email address). Read different access level control here: https://developer.apple.com/support/roles/ 
-3. If you are not enrolled as organisation, then we need your time to setup a call to get the provisioning certificates for our developers to send the build to be updated in Appstore for you to review.
+3. If you are not enrolled as organisation, then we need your time to setup a call to get the provisioning certificates for our developers to send the build to be updated in Appstore for you to review. (So if you have registered as a company, suggest signing up as a organisation)
 
 "If you’re enrolled as an organization, you have the option of adding additional members to your team. The role you assign them controls access to the development(including certificate creation) and distribution tools included with your membership."
 
@@ -50,12 +49,15 @@ Launching your apps in Apple AppStore involves more process than Google Playstor
 
 
 ### AppStore Provisioning certificates 
-if you provide admin access, you do not do the below provisioning creations
+if you provide admin access, you do not need to do the below provisioning creations
 1. Creating Identifiers
 2. Creating CSR
 3. Creating Certificate
 4. Creating Profile
 5. Push notification certificate
+
+Ask private video resources from the slack channel on how to create the above certificates. 
+
 :::Warning
 You must have a macOS running computer/laptop to complete the provisioning exercises. If you do not have, setup a call with us
 :::
@@ -66,8 +68,8 @@ We provide free add on otherwise called 3rd party tools and utilities implemente
 Read the integrations section for step by step information on how to signup and setup the accounts. 
 
 Below is the list 
-- [ ] Branch.io
-- [ ] Firebase.google.com
+- [ ] [Branch.io](branch.md)
+- [ ] [Firebase](Firebase.md)
 - [ ] AppStore access (Admin) 
 - [ ] Appstore team ID ( )
 - [ ] Android  access ( ) 
@@ -84,6 +86,7 @@ Free resources:
 - ICONS: https://www.figma.com/file/ALx9XJzeRb0n6kjUjGo1Iq/TradlyPlatform-Icons?node-id=0%3A1 : You can find icons from this figma file. We are trying to improve the resources here from contributors. 
 - WEBAPP: https://www.figma.com/file/N6JWLSTi65569BOmasbOeG/TradlyPlatform---webapp---Public?node-id=1%3A2 (The webapp we will be releasing soon)
 - DESIGN KIT: https://www.figma.com/file/CVL55dJAeCZm09qpepE9XQ/TradlyPlatform---DesignKit?node-id=8%3A0 if you want to play around on how your designs going to look in the app, you can share this with your design team to create mockups. (Just duplicate and use it)
+
 ## 6. Text Strings 
 (applicable for multi language apps)
 
@@ -94,8 +97,8 @@ Free resources:
 
 
 ## 7. Company Details for app 
-- [x] Terms Condition  (Example: https://www.example.com/terms-conditions)
-- [x] Privacy URL (Example: https://www.example.com/privacy-policy)
+- [ ] Terms Condition  (Example: https://www.example.com/terms-conditions)
+- [ ] Privacy URL (Example: https://www.example.com/privacy-policy)
  As we are not providing web app as of now, you might need to host this in your static websites like squarespace, wordpress, etc. 
 
 
