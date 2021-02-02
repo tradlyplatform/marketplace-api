@@ -1,13 +1,35 @@
 ---
 id: paymentgateways
-title: Payment Gateways
-sidebar_label: Payment Gateways
+title: Payment options to choose
+sidebar_label: Payment Options 
 ---
+
+
+Here is the list of payment methods our internal and partner payment gateways allow 
+
+- Cash on delivery and pickup
+- Stripe Connect - supports 30+ countries
+- Paypal (payments only)
+- Credits (coming end of 2021)
+
+With additional charges on custom plan, we can implement 
+- dlocal for LATAM (on-demand)
+- PayU for LATAM (on-demand)
+- Flutterwave for africa (on-demand)
+- PayStack (on-demand)
+- PayTM India (on-demand)
+- RazorPay India (on-demand)
+- MangoPay UK (on-demand)
+- payfast (South Africa)
+
+
 
 ## Cash On Delivery
 The buyer pays the cash when he receives the item. 
-- Cash on delivery come out of box and as a default payment gateway. 
+- Cash on delivery come out of box and as a default gateway. 
 - You can activate or deactivate this payment model 
+
+<img src="/img/payment.png" alt="navbar" width="300"/>
 
 ## Stripe Connect
 Most of the platform based business model require a non traditional transaction charges. Like commissions on transactions, time based subscription to use tools, payment based on hours, etc. Stripe supports most of this transaction model and we provide stripe as our payment model without any extra charges for validation or growth packages.
@@ -16,10 +38,10 @@ Most of the platform based business model require a non traditional transaction 
 TradlyAPI subscribers: all 3rd party tools including stripe will be the client responsibility to connect and implement. 
 :::
 
-Source from Stripe
+**Source from Stripe**
+
 Stripe Connect support this business models
 <b> Connect’s flexible set of features includes </b>
-
 - Payouts: Route funds to your recipients’ bank accounts and debit card flexibly and programatically
 - Fee collection: Drive revenue for your business by collecting fees for your services
 - Onboarding: Collect any information through your own flow and let Stripe take care of the rest through its mobile friendly and conversion-optimized UI

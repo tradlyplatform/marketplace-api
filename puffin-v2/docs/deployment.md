@@ -50,19 +50,7 @@ Launching your apps in Apple AppStore involves more process than Google Playstor
 :::
 
 
-### AppStore Provisioning certificates 
-if you provide admin access, you do not need to do the below provisioning creations
-1. Creating Identifiers
-2. Creating CSR
-3. Creating Certificate
-4. Creating Profile
-5. Push notification certificate
 
-Ask private video resources from the slack channel on how to create the above certificates. 
-
-:::warning
-You must have a macOS running computer/laptop to complete the provisioning exercises. If you do not have, setup a call with us
-:::
 
 ## 4. 3rd Party Tools Signup
 We provide free add on otherwise called 3rd party tools and utilities implemented for you. So you don't need to worry about implemementing marketing, tracking tools, etc. 

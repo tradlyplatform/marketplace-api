@@ -120,7 +120,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TRADLY-PLATFORM/puffin/edit/master/puffin-v2/blog/',
+            'https://github.com/TRADLY-PLATFORM/puffin/edit/master/puffin-v2/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

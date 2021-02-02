@@ -1,5 +1,5 @@
 ---
-id: Firebase
+id: firebase
 title: Integrating Firebase
 sidebar_label: Firebase
 ---
@@ -26,3 +26,4 @@ Firebase done a good job of explaining each features through a short video on ev
 3. From here you can find the access control ![fb-users](/img/fb-users.png)
 3. Add TradlyTeam email sent to you as owner ![fb-owner](/img/fb-owner.png)
 
+Note: Blaze plan is mandatory to deploy push notification for chat messages

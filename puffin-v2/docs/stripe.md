@@ -1,7 +1,7 @@
 ---
 id: stripe
 title: Setting up Stripe 
-sidebar_label: Stripe
+sidebar_label: Stripe Payments
 ---
 
 TradlyPlatform uses two types of Stripe features
@@ -11,13 +11,8 @@ TradlyPlatform uses two types of Stripe features
 URL : https://dashboard.stripe.com/settings
 
 
+ADDING DETAILED STEPS SOON
 
 Steps for Subscription only product
 Example: A marketplace which allow people to buy and sell with no middleman commmission charges on transaction. Your revenue model is like a SaaS business where you just charge sellers or buyers for the usage of the app on a monthly subscription fee
-
-
 1. 
-
-
-If 
-If the country of 
