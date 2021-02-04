@@ -1,7 +1,7 @@
 ---
 id: delivery
 title: Delivery Methods
-sidebar_label: Delivery Methods
+sidebar_label: Delivery
 ---
 
 Delivery is one of the important functionality of a product marketplace. You need to decide the delivery method you want to offer in your marketplace very carefully. Depends on how you charge your customers, you can opt for different methods

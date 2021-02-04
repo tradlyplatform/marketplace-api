@@ -65,7 +65,7 @@ Below is the list
 - [ ] Android  access ( ) 
 - [ ] Android keystore config(first name, last name, organisation)
 - [ ] Stripe access 
-- [ ] Stripe Standard or Express 
+- [ ] Stripe Standard or Express (Decision)
 
 
 ## 5. Media Assets

@@ -7,7 +7,7 @@ sidebar_label: Payment Options
 
 Here is the list of payment methods our internal and partner payment gateways allow 
 
-- Cash on delivery and pickup
+- Cash on delivery and cash on store pickup
 - Stripe Connect - supports 30+ countries
 - Paypal (payments only)
 - Credits (coming end of 2021)

@@ -264,5 +264,4 @@ User able to add multiple items to his shopping cart to make a single transactio
 - When a user make a purchase from different sellers, A single transaction is created to show his purchase amount, amount charged on card, time, etc.
 - However unique orders will be created per seller to allow your users to track the shipment on seller level.
 
-Did we miss anything?
 

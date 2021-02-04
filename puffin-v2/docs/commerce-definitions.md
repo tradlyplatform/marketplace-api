@@ -1,7 +1,7 @@
 ---
 id: commerce-definitions
-title: ifference between C2C, B2C, B2B, B2B2C, Social Commerce, etc
-sidebar_label: Different Commerce 
+title: Difference between C2C, B2C, B2B, B2B2C, Social Commerce, etc
+sidebar_label: Types of commerce
 ---
 
 ## C2C/P2P
