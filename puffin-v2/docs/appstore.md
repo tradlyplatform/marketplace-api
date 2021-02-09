@@ -3,7 +3,13 @@ id: appstore
 title: Appstore Setup
 sidebar_label: Appstore
 ---
+Here is the list of steps you need to do in appstore before the release, steps to update app, etc
 
+## Checklist
+- [ ] Appstore access to us
+- [ ] TeamID
+- [ ] Below steps for prelaunch, launch and update
+- [ ] 
 Pre-requisite 
 - Decide whether you want as a individual licence or Organization
 - Organisation level licence provide more benefits in terms of access management (Especially creating provisioning certificates)

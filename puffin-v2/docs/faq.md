@@ -44,5 +44,10 @@ For example: 
   
 So to answer your above questions. It depends on how serious are you about us and timeline on this. 
 
+### What I will get in my first build?
+You will get the whitelabel version of your app with all the existing functionality tested and working. This is the 10days commitment we make provided that you finish 3rd party tools signup(2hours) and appstore/playstore licences. 
+
+All your enhancements will be provided in the next build. If you really want to have your enhancement be available in the first build itself, then we might take time within a month and provide the build. New feature enhancements will take analysis, communication, testing in different environment and launch. 
+
 
 

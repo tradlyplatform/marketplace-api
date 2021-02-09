@@ -12,6 +12,7 @@ Features like Invite your features, Marketing tracking links generations, Deepli
 2. Navigate to [profile section] (https://dashboard.branch.io/account-settings/profile). 
 3. Find the APP ID.
 4. Update the APP ID inside the SuperAdmin panel settings page > Branch App ID.
+   
 
 ## Pricing
 Branch Metrics has certain feature free and some advanced functions with paid plan. You need the free package for the above features we have mentioned (for upto 10K MAU).

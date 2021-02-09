@@ -6,6 +6,18 @@ sidebar_label: Playstore
 
 There are few things that need to be done from your side for launch, prelaunch, and update of the app. 
 
+## Checklist
+- [ ] Playstore access to us
+- [ ] Keystore config to us
+- [ ] Below steps for prelaunch, launch and update
+
+### Keystore Config
+When publishing app to Google Play, we should also opt in to Play App Signing. 
+We need three information
+1. first name | last name: ________
+2. organisation name: ______
+As per Google 
+https://developer.android.com/studio/publish/app-signing#sign-apk
 
 ## Prelaunch 
 - Create App 
@@ -81,3 +93,34 @@ Whenever you receive an email or seen an app console with any warnings about app
 ## Video Explanation except app content setup
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGusFO9_Ias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## On Update
+Visit your playstore https://play.google.com/console/ and do the following steps to update your apps
+
+**1. Go to Production**
+
+**2. Create Release **
+
+<img src="/img/update1.png" alt="navbar" width="700"/>
+
+
+**3. Upload the AAB**
+
+<img src="/img/update2.png" alt="navbar" width="700"/>
+
+
+**4. Add short information on what has been updated **
+
+<img src="/img/update3.png" alt="navbar" width="700"/>
+
+**5. Start ROLL OUT PRODUCTION **
+
+<img src="/img/update4.png" alt="navbar" width="700"/>
+
+**6. Production > Releases **
+
+<img src="/img/update5.png" alt="navbar" width="700"/>
+
+
+

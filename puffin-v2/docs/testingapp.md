@@ -29,6 +29,12 @@ Hence spend time to registering dummy users, open accounts/stores, submit listin
 
 
 ## SANDBOX APP TESTING
+
+### Things that cannot be tested in Sandbox 
+- 3rd Party tools settings 
+- Especially stripe connect cannot be tested (to test this, you can only use tradlysocial tenantID)
+- App Icons 
+
 ### SuperAdmin Access
 - You may access the dummy superadmin panel for a marketplace platform using this credentials
 URL: https://admin.sandbox.tradly.app/
@@ -38,9 +44,10 @@ Password: '12345678'
 
 
 :::important
-Tradly will need to provide you a clientID/Tenant ID. When your first access the app, you must enter this ID before you proceed into the app. so for the above dummy demo, 'clientdemo' is your tenantid
+Tradly will need to provide you a clientID/Tenant ID. When your first access the app, you must enter this ID before you proceed into the app. so for the above dummy SuperAdmin demo, 'clientdemo' is your tenantid but use 'tradlysocial' or 'luxuryfashion' when testing app as it has everything configured.
 :::
 
+    You can always change the tenantID from the same TradlyPlatform by going to MORE > Exit tenantID for iOS and MORE > Settings for Android. 
 
 ### Accessing/Using your Android App
 
@@ -60,6 +67,8 @@ Tradly will need to provide you a clientID/Tenant ID. When your first access the
 - You can download the app using the above link in your iOS device and enter your tenant ID or using the demo tenantID to access the app. 
 
 ## PRODUCTION APP TESTING
+### Things that can be tested in Sandbox 
+
 
 ### SuperAdmin Access
 The sandbox account and Production account will be always different whether it is data or functionality configuration. For a subscribed users, you will receive an email that has your access credentials to access your production accounts. if you have not received an email, message us on the live chat.

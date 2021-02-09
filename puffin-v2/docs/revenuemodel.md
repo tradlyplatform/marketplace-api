@@ -4,18 +4,22 @@ title: Revenue Model
 sidebar_label: Revenue Model
 ---
 
-Based on your company strategy, you can opt for different revenue models. 
+Based on your company strategy, you can opt for different revenue models. Below are the list which are available and roadmap as well
 
-which open up many business models (take inspiration from paydirect, chargify, etc) (commission, subscription, ads, charge after number of listings, ) 
+
 ## 100% Transfer 
+AVAILABLE
 Available for clients based in Stripe connect supported countries. 
 
 
 ## % Commission/Fee 
-    - SupplySide Only
-    - Demand Side only
+AVAILABLE
+
+    - SupplySide only with category 
+    - Demand Side only with category 
     - Supply and Demand 
-    - All the above with conditions like country, category, accounts 
+    - Custom conditions conditions like country, category, accounts (On Roadmap)
+
 Available for clients based in stripe connected supported countries
 
 
