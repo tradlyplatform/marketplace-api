@@ -4,26 +4,26 @@ title: Why we built Tradly Platform?
 sidebar_label: Why Tradly Platform?
 ---
 
+Tradly makes it possible for entrepreneurs with great ideas to launch their marketplace FAST within a matter of days which is crucial in a startup.
 
-“We help entrepreneurs launch their marketplace ideas in a matter of days” - Tradly Platform. 
+Some people want to solve problems in their community and society. They have excellent ideas that can potentially contribute to solving bigger problems and make the world more efficient. But, be it someone with strong technical skills who can build things they wanted or without them who need a way to create and test things, they all want to be fast. Speed is crucial when it comes to establishing a successful startup. Like every entrepreneur who aims to solve the problems, people face Tradly want to do the same by making launching marketplaces quick, efficient & easy while providing the most value per dollar.
 
-There are great people who want to solve problems in their community and society. They might have excellant ideas which they believe that can contribute to gradually solve the bigger problem. Some are strong technical people who can build things what they wanted. Some want to merely test things in a quicker way possible. Some might be strong at other ground skills but not the technical skills. But the intentions of all this people are same. Solving the problems we face everyday. Create new opportunities to improve the life of their people. We built this Tradly Platform for those great people. 
+Many entrepreneurs and enterprises want to launch platforms, validate their idea, and grow them with the least amount of resources. But they are faced with problems ranging from the cost of building the tech from scratch to advancing their platform and time spent on building the product. All this requires a lot of time and resources; two things most startups are most sensitive to.
 
-When we zoom in, lot of entrepreneurs and enterprise want to launch their platforms, validate their idea and growing them. They face problems ranging from cost of building the tech from scratch to advancing their platform. This involves huge cost and resources without a accurate timeline and budget leading to high risk and budget issue. 
-
-To avoid this, Tradly platform has prebuilt marketplace modules which can be spinned off anytime. We provide Platform as a Service(PaaS) module where we charge the usages of our platform on monthly basis.
-
-- This reduce the risk of cost burning, validating the idea faster and getting into the market faster in days. 
-- They save cost, energy and time with us. We want to enable their platform idea by sharing our platform infrastracture at minimal cost and less riskier as they can stop the monthly cost anytime. 
-
-
-So do we build any digital infrastructure? NO! But Platform business model infrastructure. 
+Tradly Platform has pre-built marketplace modules that can be spun off anytime and into moulded to match your needs to solve this problem. Tradly provides a platform as a Service(PaaS) module that can be customised to fit your needs. Be it a fashion marketplace, an elaborate online designer store or just something to create an MVP Tradly can help with it, and you can get started with as low as $10/day.
+Still, wondering why you might want to go with tradly?
+here are a few reasons why:
+- Going with Tradly reduces the of cost burning, it makes validating the idea and getting into the market faster, in fact in a matter of days. 
+- It is cost and time effective, not to mention requires less energy. We want to enable you to execute faster through our platform infrastructure at a small monthly fee.
 
 
-- The industries are moving towards mass market production to platformisation. 
-"Platforms are business models that allow multiple sides (producers and consumers) to interact [...] by providing an infrastructure that connects them” - Sangeet Paul chaudary. 
-- Example of business models like Amazon E-Commerce, AliExpress, Uber, Etsy, Depop, Airbnb, TaskRabbit and lot of other multi sided marketplaces. 
-- There is not many focused pre-built solutions that is catered to this business models. 
+So do we build digital infrastructure? NO! 
+Tradly operates on a Platform business model infrastructure - meaning faster execution and easier implementation for the clients.
 
-To make any entrepreneur/enterprise to launch their marketplace app or any other platforms easily and with least amount of $10 per day cost, Tradly platform helps them.
+- The industries are moving towards mass-market production to platform station. 
+"Platforms are business models that allow multiple sides (producers and consumers) to interact [...] by providing an infrastructure that connects them" - Sangeet Paul Choudary. 
+- Examples of this are business models like Amazon E-Commerce, AliExpress, Uber, Etsy, Depop, Airbnb, TaskRabbit, and many other multi-sided marketplaces. 
+- There arent many pre-built solutions that are catered to these business models.
+
+There was a need for such business models, so we build one to enable entrepreneurs & enterprises to launch their platform easily, quickly and efficiently for as low as $10 per day cost.
 
