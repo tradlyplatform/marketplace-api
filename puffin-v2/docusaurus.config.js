@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Tradly Platform',
+  title: 'TradlyPlatform',
   tagline: 'Empowering you with platform infrastructure',
   url: 'https://portal.tradly.app',
   baseUrl: '/',

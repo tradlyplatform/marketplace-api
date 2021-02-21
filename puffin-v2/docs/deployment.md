@@ -6,7 +6,7 @@ sidebar_label: Deployment
 Find the informations on how we deploy different Tradly Platform products into different tech stacks and list of activities you as a platform owner need to do and other informations from sandbox stage to production. 
 
 ## 1. Superadmin
-Every platform owner whichever the products you subscribe from us will have super admin access. SuperAdmin Panel helps you to configure different settings of your apps and API in a user friendly way without coding involved. [Read more here] (superadmin.md). 
+Every platform owner whichever the products you subscribe from us will have super admin access. SuperAdmin Panel helps you to configure different settings of your apps and API in a user friendly way without coding involved. [Read more here](superadmin.md). 
 
 SuperAdmin panel are not hosted anywhere but in our own servers. Hence you will be accessing the production superAdmin panel from this link (Https://admin.tradly.app). Apart from the sandbox access we have shared with you for testing, you will get a unique tenantID for your platform on your successful subscribed users. 
 

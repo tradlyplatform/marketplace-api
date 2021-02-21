@@ -9,10 +9,10 @@ There are few things that need to be done from your side for launch, prelaunch, 
 ## Checklist
 - [ ] Playstore access to us
 - [ ] Keystore config to us
-- [ ] Below steps for prelaunch, launch and update
+- [ ] Below steps for prelaunch, launch, and update
 
 ### Keystore Config
-When publishing app to Google Play, we should also opt in to Play App Signing. 
+When publishing an app to Google Play, we should also opt in to Play App Signing. 
 We need three information
 1. first name | last name: ________
 2. organisation name: ______
@@ -21,19 +21,19 @@ https://developer.android.com/studio/publish/app-signing#sign-apk
 
 ## Prelaunch 
 - Create App 
-- Store Listing informations 
+- Store Listing information 
 - App Content
 
 
 ### Create App
-Fill in all the information on the playstore create app section 
+Fill in all the information on the play store create app section 
 - Name
 - Language 
 - Store settings (App)
 - Free
 - Declarations (Tick both Program policies, US export laws )
 
-###  Store Listing information 
+### Store Listing information 
 - Name
 - App information
 - App screenshots
@@ -48,10 +48,10 @@ Fill in all the information on the playstore create app section
 ### App Content 
 1. Privacy Policy URL (Privacy URL of your business hosted on your website. A simple HTML would be enough) 
 2. App Access
-     1. As your apps have login functionality that needs users to like an item, follow the store, buy items, etc. We need to provide one access for Google to test this functionality to see whether everything looks legally okay for users. 
-3.  Ads: If your product is going to have ads inside the app, you need to explicitly mention them to the users. 
+1. As your apps have login functionality that needs users to like an item, follow the store, buy items, etc. We need to provide one access for Google to test this functionality to see whether everything looks legally okay for users. 
+3. Ads: If your product is going to have ads inside the app, you need to explicitly mention them to the users. 
 4. Target Audience
-     1. Select here the appropriate age group your app is targeted. The objective for google is to make sure your app doesn’t go to children or other age groups if they are not planned to be. So they require this informations upfront. 
+1. Select here the appropriate age group your app is targeted. The objective for google is to make sure your app doesn’t go to children or other age groups if they are not planned to be. So they require this informations upfront. 
 5. Content Rating
 After or before providing the AAB, you need to do this step. As per Google, it will be used to 
 Your rating will be used to:
@@ -78,7 +78,7 @@ Refer more: https://developer.android.com/studio/publish/app-signing#enroll
 
 
 ## App Updates
-- Every time we give AAB file, you can go ahead and upload the file in PRODUCTION RELEASE management (sometimes if time permits, we can directly upload that for you)
+- Every time we give an AAB file, you can go ahead and upload the file in PRODUCTION RELEASE management (sometimes if time permits, we can directly upload that for you)
 - It will be straightforward adding a release name and providing a short brief on what's this update has 
 
 
@@ -87,16 +87,16 @@ https://support.google.com/googleplay/android-developer/answer/9859152?hl=en
 
 
 :::warning Other Notes
-Whenever you receive an email or seen an app console with any warnings about app updates, read the information carefully. If you are not sure ask us. 
+Whenever you receive an email or see an app console with any warnings about app updates, read the information carefully. If you are not sure ask us. 
 :::
 
-## Video Explanation except app content setup
+## Video Explanation except for app content setup
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGusFO9_Ias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## On Update
-Visit your playstore https://play.google.com/console/ and do the following steps to update your apps
+Visit your play store https://play.google.com/console/ and do the following steps to update your apps
 
 **1. Go to Production**
 

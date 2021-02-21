@@ -51,3 +51,24 @@ All your enhancements will be provided in the next build. If you really want to 
 
 
 
+
+### How can i provide links to external pages ? 
+There is already available to provide links to external pages
+
+1. Promo Banners : It allows you to setup external URL as a destination 
+2. Support Page : On more section of the app, When a user click on the support link, you can send the that inbrowser traffic to anything you wish. 
+
+
+### Do I have to build the app by myself?
+    Applicable to clients who use full stack package (api + apps)
+Not really. Our app is 100% no code platform. There isn't anywhere a code is used to customise the app. Most cases you will use the SuperAdmin panel to make any intermediate customisation you need. If it's advanced, then you can discuss with our team on how to move forward. 
+
+### Do TradlyPlatform sell source code of the app?
+We are a pure Platform as a service platform (PaaS). All the codes are intellectual properties. So we don't sell any of our source code. However there is a flexibility with our architecture that helps you to migrate.  
+
+**Examples: **
+- If you want to build your own app, you can consume our Headless API solution and built the apps with any sort of customisation you want to make 
+- Custom Plan users has the flexibility to maintain a separate code. That is suitable for companies with bigger budget. 
+
+
+

@@ -93,9 +93,9 @@ An user able to chat with prospective seller/account/tutorprofile, etc to discus
 
 The chat feature is more or less like the WhatsApp features which allows the users to do 
 - Personal and private communications
-- Share locations
 - Attach additional private photos and documents about the listings
-
+- Send any external links. (Example: Google Maps, Weblinks)
+- Push notifications for new chats and replies 
 
 ## Hybrid Listing Page
 A platform owner can configure custom fields/Attributes on listings submission personalised to categories 
@@ -152,7 +152,7 @@ An user able to get the updates about different things to keep updated
 
 Coming soon 
 - Account owner(Ex:Store owner) receive a notification when buyer made a review.
-- Users receive a notifcation When a listings posted by followed accounts.
+- Users receive a notification When a listings posted by followed accounts.
 
 
 
@@ -161,7 +161,7 @@ As a platform owner, you can design different account creation form based on the
 
 - When you are building hybrid marketplace, you want to have different stake holders to open accounts. And the accounts perhaps need different information than the primary information.
 - By Default, we only collect the Name and Description of the account registration 
-- You can configure additional attributes (HOW TO CONFIGURE : LINK)  based on your business nature
+- You can configure additional attributes ([HOW TO CONFIGURE](http://localhost:3001/docs/superadmin-guide#accounts-usersprofiles))  based on your business nature
 - You can create multiple categories of accounts 
 - You can create additional attributes specific to an account category rather than overall 
 
@@ -201,10 +201,11 @@ User able to do advanced search of listings through search function to find the 
 Search feature allows the user to 
 - Traditional listing name and description based search
 - Advanced attributes as an filter to filter listings
-- Sorting functions like price , recency
+- Sorting functions like price , recent
+- Map level filters (Neaby miles/KM) 
 
 Coming soon
-- Map level filters (Neaby miles/KM) 
+
 - Location searches (by city, region and country) 
 
 
@@ -235,9 +236,9 @@ User able to keep track of the orders or bookings he made with other accounts an
 Currently available 
 - User able to see the order details - Time , Order_ID
 - User able to see the listing he purchased 
+- Status of the order (Cancelled, Shipped)
 
-Coming soon
-- Status of the order (Cancelled, Shipped) 
+Coming soon 
 - Status of the shipping (If shipping/logistics partner API is connected) 
 
 ## Ratings & Reviews
