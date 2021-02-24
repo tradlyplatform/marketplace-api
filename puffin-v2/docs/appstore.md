@@ -43,9 +43,7 @@ Below are the steps to create provisioning certificates
 10. Click ‘Create’
 
 
-
 ### Creating Provisioning profile
-
 1. Go to developer.apple.com
 2. Select ‘Account’
 3. Select ‘Certificates, Identifiers & Profiles’
@@ -135,6 +133,19 @@ It has few main steps
 - Confirm Register
 - Download and share that file to our team
 
+### Key ID
+1. Go to developer.apple.com
+2. Select ‘Account’
+3. Select ‘Certificates , Identifiers and Profiles’
+4. Select ‘Keys’
+5. Select the key you shared above
+6. You will see the Key ID there. Please share that ‘Key ID’ .
+
+### Team ID
+1. Go to developer.apple.com
+2. Select ‘Account’ on Nav menu
+3. Select ‘Membership’ on Side Menu
+4. Please share that ‘Team ID’
 
 
 ## Appstore Management 

@@ -72,6 +72,7 @@ This are getting started images before user signup. You can use this to educate 
 
 - iOS Specification: - Upload in PNG format with 3 variance 1PX, 2PX & 3PX. 
 - Android: SVG format 
+- Size: Less than 200KB per image for faster app load.
 
 
 
