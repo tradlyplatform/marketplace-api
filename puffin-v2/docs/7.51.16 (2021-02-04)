@@ -1,0 +1,141 @@
+7.51.16 (2021-02-04)
+Update text copy for error handler in the Gutenberg block.
+7.51.0 (2021-02-02)
+Add activate and redirect actions
+
+2.1.2
+* fixed: Range button toolbar sticky position on scroll
+* fixed: Additional classes are not applied to the elements
+* fixed: The style of the last calculator is applied to all calculators when 2 or more calculators are added to the single page
+* fixed: Checkbox color settings
+* fixed: Export button does not work on empty list
+* fixed: Range field max and min values bug
+* fixed: Length settings for Line element
+2.1.1
+* updated: Condition data refactoring and restructure
+* fixed: Issue with saving big calculators fixed
+* fixed: Conflict with themes’ jQuery scripts solved
+* fixed: Enqueue script order changed
+2.1.0
+* fixed: Range slider handle position fixed on front-end and on dashboard preview
+* fixed: Issue with the same option values of one element (Dropdown, Radio, Checkbox, Toggle elements)
+* upd: compatibility with WordPress 5.6
+2.0.9
+* fixed: Preview option for calculators with conditions (*pro)
+* fixed: Default value wasn’t applied when conditions added (*pro)
+* fixed: Minor bug fixes
+* improvement: Required fields feature added (*pro)
+* fixed: Minor bug fixes
+2.0.8
+* fixed: Toggle and Checkbox values appearance in Total summary
+* fixed: Date Picker appearance
+2.0.7
+* Round value bug fixed.
+* Minor bug fixes.
+2.0.6
+* Added: Google reCAPTCHA v3 (*pro).
+* Added: Switcher for google reCAPTCHA (*pro).
+* Added: Customizer for header titles.
+* Lodash version conflicts bug fixed.
+* Improved calculator responsiveness.
+* Conflict with Lazy Loading plugins fixed.
+* Minor bug fixes.
+2.0.5
+* CF7 message body conflict with symbols fixed. (*pro)
+* Save custom styles bug fixed.
+* Range field conflict with id fixed.
+* Minor bug fixes.
+2.0.4
+* Added: Stripe currency format. (*pro).
+* Can’t translate text ‘Submit’ fixed *(pro).
+* Html field bug fixed.
+* Duplicate calculator bug fixed.
+* Checkbox color bug fixed.
+* PHP 7.4 errors fixed.
+2.0.3
+* Update Freemius SDK (*pro)
+* Bug with option name fixed.
+* Redeclare function bug fixed.
+* Minor bug fixes.
+2.0.2
+* Save settings bug fixed.
+* Conflict with edit with Elementor plugin fixed.
+* Checkbox view fixed.
+* Bug with unit row fixed.
+* Bug with Stripe payment fixed. (*pro)
+* Range slider does not work on mobile fixed.
+* Minor bug fixes.
+2.0.1
+* Render widgets VC & Elementor
+* Radio field bug fixed
+* Minor bug fixes
+2.0.0
+* New Multi-range field added
+* New Toggle button field added
+* Frontend redesigned
+* Admin page redesigned
+* Conditions System – New Unset action added
+* Customize bugs fixed
+1.2.10
+* Text symbols problem fixed
+1.2.9
+* Checkboxes with the same value calculation bug fixed
+* Horizontal Calculator displaying issue fixed
+1.2.8
+* Minor bug fixes
+1.2.7
+* Minor bug fixes
+1.2.6
+* Currency bug fixed
+* Checkbox calculation bug fixed
+* Minor bug fixes
+1.2.5
+* Form Data currency bug fixed
+* Form Data checkbox labels bug fixed
+* Duplicate Calculator bug fixed
+* Import/Export calculators bug fixed
+* Minor bug fixes
+1.2.4
+* Undefined Color error fixed
+* Text area new line error fixed
+* Minor bug fixes
+1.2.3
+* Customize Calculator front bugs fixed
+* Settings button
+* Minor bug fixes
+1.2.2
+* Customize Calculator bugs fixed
+* Formula issues fixed
+* Minor bug fixes
+1.2.1
+* Submit button text field added
+* Range Button Circle Color bug fixed
+* Minor bug fixes
+1.2
+* Minor bug fixes
+1.1.9
+* Minor bug fixes
+1.1.8
+* One click demo import/export
+* Currency settings bug fixed
+* Radio button not clickable bug fixed
+* Minor bug fixes
+1.1.5
+* Remove field issue fixed
+* Duplicate Calc issue fixed
+* Minor bug fixes
+1.1.4
+* Remove !important from inline styles
+* Minor bug fixes
+1.1.3
+* Real-time Customizer feature added – lets you edit your calculator style in real time.
+* Decimals problem fixed
+* Minor bug fixes
+1.1.2
+* Html field bug fixed
+* Bug with currency fixed
+* Bug Total field with space fixed
+* Edit/Save reload the same page
+* Minor bug fixes
+1.1.1
+* Minor bug fixes
