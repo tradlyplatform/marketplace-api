@@ -37,6 +37,11 @@ https://docs.google.com/spreadsheets/d/1JVmwtW1cFccYc-nCoK6pndIGYNTl4Ny2WAy1ErTt
 
 - [Read here on how to configure commission % in SuperAdmin](/docs/superadmin-guide#supply-commission)
 
+## Timeline of TradlyPlatform transaction triggers
+(Right click and view as full image)
+<img src="/img/tradly-transactions-timeline.png" alt="tradly-transactions-timeline" width="700"/>
+
+
 ## FAQ for Platform Owners
 
 ### What's the difference between Stripe Standard and Stripe Express? 
@@ -105,7 +110,3 @@ Some refunds—those issued shortly after the original charge—appear in the fo
 - You can issue more than one refund against a charge, but you can’t refund a total greater than the original charge amount.
 
 
-
-## Subscription Based Revenue Model
-Steps for Subscription only product
-Example: A marketplace which allow people to buy and sell with no middleman commmission charges on transaction. Your revenue model is like a SaaS business where you just charge sellers or buyers for the usage of the app on a monthly subscription fee

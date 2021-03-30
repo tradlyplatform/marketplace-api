@@ -66,6 +66,15 @@ App Icon are used in push notifications alerts, app launch icon and also which a
 - Android Specification: https://developer.android.com/google-play/resources/icon-design-specifications
 - Upload both of them according to the spec. Uploading wrong spec can delay the launch. 
 
+** Quick Tip **
+Since app have different resolutions, you need to provide app icons in different sizes. For that you can use third party tool. Here is how to use the ‘Make App Icon’ tool.
+1. Go to https://makeappicon.com/
+2. Upload your app icon ( png file )
+3. It will ask few questions. You can skip those questions
+4. At the end, it will your email id to send app icon files. ( Note: you can untick the newsletter )
+5. Zip file will be sent to your email id
+6. Download that zip file and share it to us in the Google Drive.
+
 ### Onboarding Images
 This are getting started images before user signup. You can use this to educate on what your app can do or explaining other important features of the app. In the below image red higlighted section. 
 <img src="/img/onboarding.png" alt="onboarding" width="200"/>
@@ -74,7 +83,8 @@ This are getting started images before user signup. You can use this to educate 
 - Android: SVG format 
 - Size: Less than 200KB per image for faster app load.
 
-
+** Quick Tip **
+- You can download open source illustrations with your branding color from https://undraw.co
 
 ### Top bar / Tool bar text
 The top text in the tool. It is always your app name. 

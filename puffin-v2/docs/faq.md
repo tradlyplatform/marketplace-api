@@ -32,7 +32,7 @@ Two approaches using our Headless API product
 
 
 1. Website development - Depends on the UI requirements (Range from 4K to 10K USD) if you use our partners to develop
-    1. or you can use your own developers with your own design and consume our API. Our API is just 0.49% of the total marketplace transaction as shared before.
+    1. or you can use your own developers with your own design and consume our API. Our API is 1% based on our API pricing page.
     2. our partners will take 30-50 working days to complete this. 
     3. Pros: You will own the website code
 ### Can we get additional functionalities?

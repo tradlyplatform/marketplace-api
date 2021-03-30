@@ -4,8 +4,8 @@ title: Subscription revenue model
 sidebar_label: Subscription
 ---
 
+A marketplace which allow people to buy and sell with no middleman commmission charges on transaction. Your revenue model is like a SaaS business where you just charge sellers or buyers for the usage of the app on a monthly subscription fee
 
-Subscription based revenue model in marketplace have many advantages than just being a traditional commission based model. Using TradlyPlatform, you can launch a SaaS business on a marketplace idea. The simple example is you allow anyone to sell and buy but charge a monthly subscription fee for using the marketplace app. 
 
 **Highly suitable for emerging markets**
 In emerging markets, there is not lof of physical or digital infrastracture to handle activities like 

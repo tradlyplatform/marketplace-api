@@ -121,10 +121,6 @@ Microgrids are electricity distribution systems containing loads and distributed
 
 **Getting Personalized Solutions- **Option for the user to enter  variables such as Total Rooftop Area Available, Monthly energy Requirement, for the service provider to make customized made solutions, that best suit end customer needs. 
 
-                                           
-
-![alt_text](images/image4.png "image_tooltip")
-
 
 **Requesting Proposals:** Get full drawn proposals from the service providers with detailed cost structures and installation details, through our app
 

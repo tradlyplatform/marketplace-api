@@ -151,39 +151,6 @@ In the "Operation Days" Attribute values which is a multi value, you can find 7d
 
 
 ## Banners
-Here got details on [the use cases of banners](/appfeatures#banners)
-
-### Adding Banners
-![Banner Creation](/img/banner-destination.png)
-- Give out a name for you to differntiate different banners. We recommnd names with month_campaigntype_optionalnote as you can export this data in future to analyze performance and other campaign metrics. In future, we are planning to supply this name to marketing analytical tools which can provide you how many people clicked, viewwed this banners, etc. 
-
-- Upload an image which will lead you to crop the images based on the requirement. 
-- Select the target destination of the banner. 
-- Schedule the banner to run on specific days using the START DATE and END DATE
-- And also activate or deactivate the banners. Even if a banner falls under a scheduled dates, you can still use STATUS function to switch off or switch on the banner. 
-
-### Banner Placement
-You can upload different banners for Mobile application and WebApplication with diffent dimensions/settings. 
-
-Specs:
-- App Banner size : 1280*720 (The same size you will be using it to create facebook ads on canva or anywhere)
-- The app will automatically resize the banner according to the mobile screen. The banner might take up 80% of that space apart from the padding and card UI. 
-![Select banner placements](/img/banner-medium2.png)
-
-![Banner Mediums](/img/banner-medium.png)
-
-### Banner Destination
-Banners can be configured for different actions. 
-
-- You can use the banners as a static informational or promotion banners
-- ![General Destination](/img/general-destination.png)
-
-- OR You can use the banners destined to a particular listings (We suggest you to put CTA button for people to differentiate this banner types)
-- ![Product Destination](/img/product-destination.png)
-
-:::note COMING SOON. 
-Banners destined to a particular collection of listings through TAG features
-:::
 
 ## Multi Currency
 ![Currency Management](/img/currency-management.png)
@@ -197,14 +164,4 @@ Let's use USD to MYR as example
 - ![Google conversion](/img/google-conversion.png)
 
 ## Supply Commission
-- Go to SuperAdmin Panel > Revenue Model > Supply commission
-- You will find list of commissions already created or empty. You will have only one active commission model. And you can other commission model planned and activate for any special occassion (Example: For 3months, you can charge very less commission. 
-- Create new. 
-![supply-commission](/img/supply-commission.png)
-
-1. You can configure default fee if you don't prefer a category fee. If there is category based commission applied, the default fee will be overrided with this new fee. If there is a case when you have fifteen(15)categories, you have created category based commission only for five(5) categories, other categories will take the default commission rate
-2. Multi-Selection field allow you to select multi-categories
-3. If you want to have slab based commission for a specific category, you can apply as well. Let's say if you want to have SLAB based across all categories, then you will have to select all categories in the MULTI-SELECTION(2) field and save.
-4. Commission percentage. Enter a number without % symbol
-5. Add another line of category using the CTA
-6. An example view of how to configure SLAB based percentages. 
+Find this on blocks section ( side menu.)

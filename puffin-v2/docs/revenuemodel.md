@@ -21,7 +21,7 @@ AVAILABLE
 
 Available for clients based in stripe connected supported countries. Here is how it works. 
 
-<img src="/img/commission-revenue.png" alt="commission-revenue" width="800"/>
+<img src="/img/tradly-commission-model1.png" alt="commission-revenue" width="800"/>
 
 ## Classified style featured ads
 Available on home page and possibility in other pages. And it is possible for all countries with Stripe Payments or other 
@@ -45,7 +45,7 @@ Available on home page and possibility in other pages. And it is possible for al
 
 ## Subscription charges
 - Mostly available for countries which has Stripe, Paypal and other payments. 
-<img src="/img/subscription-revenue-model.png" alt="subscription-revenue-model" width="800"/>
+<img src="/img/tradly-subscription-model.png" alt="subscription-revenue-model" width="800"/>
 
 ## Promoted Listings
 (not available until 2021Q3)

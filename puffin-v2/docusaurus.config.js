@@ -24,7 +24,7 @@ module.exports = {
       algoliaOptions: {}, // Optional, if provided by Algolia
     },
     navbar: {
-      title: 'Tradly Platform',
+      title: 'TradlyPlatform',
       logo: {
         alt: 'Tradly Platform Logo',
         src: 'img/logo.svg',
@@ -100,7 +100,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Tradly Platform. A product of iStrata Digital Sdn. Bhd.`,
+      copyright: `Copyright © ${new Date().getFullYear()} TradlyPlatform. A product of iStrata Digital Sdn. Bhd.`,
     },
   },
   presets: [
