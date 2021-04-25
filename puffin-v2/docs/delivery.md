@@ -64,6 +64,13 @@ The seller will have an option to chat with the customer for the relevant custom
 Both the merchant and the customer can check the return status from the return status page.
 
 
+## User App
+
+User able to save multiple shipping address based on his circumstances to choose
+
+- Add unlimited shipping address in his profiles
+- Select different delivery address on every new orders 
+- Edit, Delete shipping address. 
 
 ## OUR ROADMAP
 

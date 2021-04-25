@@ -1,18 +1,24 @@
 ---
 id: order
-title: Order Flow 
-sidebar_label: Order FLow
+title: Order and Checkout System
+sidebar_label: Order & Checkout
 ---
 
 
-Order online, Pay Online
+## Cart
+User able to add multiple items to his shopping cart to make a single transaction 
+- When a user make a purchase from different sellers, A single transaction is created to show his purchase amount, amount charged on card, time, etc.
+- However unique orders will be created per seller to allow your users to track the shipment on seller level.
 
 
-Buy Online, Pickup In Store
+## My Orders / Bookings / Others
+User able to keep track of the orders or bookings he made with other accounts and follow the updates from there
 
-One of the emerging mode of user behaviour after covid is
+Currently available 
+- User able to see the order details - Time , Order_ID
+- User able to see the listing he purchased 
+- Status of the order (Cancelled, Shipped)
 
-ORDER ONLINE > PICK UP FROM STORE
-This is applicable for stores which can't do delivery easily
-Applicable for most local stores,
-Applicable for our shopping mall based clients
+Coming soon 
+- Status of the shipping (If shipping/logistics partner API is connected) 
+

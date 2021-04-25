@@ -1,9 +1,11 @@
 ---
 id: deployment
-title: Deployment Process
-sidebar_label: Deployment
+title: Deployment Steps
+sidebar_label: Deployment Steps
 ---
 Find the informations on how we deploy different Tradly Platform products into different tech stacks and list of activities you as a platform owner need to do and other informations from sandbox stage to production. 
+
+** Plus below are the mandatory things that needed from you for us to prepare a app build/bundle **
 
 ## 1. Superadmin
 Every platform owner whichever the products you subscribe from us will have super admin access. SuperAdmin Panel helps you to configure different settings of your apps and API in a user friendly way without coding involved. [Read more here](superadmin.md). 
@@ -62,6 +64,7 @@ Below is the list
 - [ ] [Firebase](firebase.md)
 - [ ] AppStore access (Admin) 
 - [ ] Appstore team ID ( )
+- [ ] Plist from Firebase for AppStore 
 - [ ] Android  access ( ) 
 - [ ] Android keystore config(first name, last name, organisation)
 - [ ] Stripe access 

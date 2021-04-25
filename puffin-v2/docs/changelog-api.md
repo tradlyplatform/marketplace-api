@@ -4,6 +4,23 @@ title: Changelog - API
 sidebar_label: Changelog - API
 ---
 
+## 24 April 2021
+- New: Platform can mark-up a listing fee on top of listed price 
+- New: PayDunya Payment Gateway available on Subscription
+- New: Storage Hub powered by Platform on Delivery/Shipment Options
+
+## 23 March 2021
+- New Payment Method for Latin America. 
+- You will get PayU as one more payment method. once order is created call Commons -> Payments -> PayU Latam -> paymentIntent
+- You will be getting html to use it in webview which will redirect to payU payment page
+
+<img src="/img/payU-test-card-details.png" alt="payU-test-card-details" width="700"/>
+
+- You can use this test details in screenshot to pay. You can change the page to English from top right based on your locale or client locale.
+
+
+
+
 ## 14 March 2021
 Inventory & stock changes are done. Below are the changes and can be used as test cases
 
@@ -18,11 +35,3 @@ Inventory & stock changes are done. Below are the changes and can be used as tes
 - Listings with stock 0 will not be coming in listings list API but listing detail API will give response even though stock is 0 so ensure updating the UI with 'Out of stock' and don't show Add to Cart button
 
 
-## 23 March 2021
-New Payment Method for Latin America. 
-- You will get PayU as one more payment method. once order is created call Commons -> Payments -> PayU Latam -> paymentIntent
-- You will be getting html to use it in webview which will redirect to payU payment page
-
-<img src="/img/payU-test-card-details.png" alt="payU-test-card-details" width="700"/>
-
-- You can use this test details in screenshot to pay. You can change the page to English from top right based on your locale or client locale.

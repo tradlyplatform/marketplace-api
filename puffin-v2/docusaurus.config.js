@@ -43,10 +43,16 @@ module.exports = {
         },
         
         {
-          href: 'https://github.com/TRADLY-PLATFORM/puffin',
-          label: 'GitHub',
+          href: 'https://drive.google.com/drive/u/0/folders/16D2oxYs7-7VPkiXPZZ3vsYfqXJNj0RGI',
+          label: 'Postman Collection',
           position: 'right',
         },
+        {
+          href: 'https://portal.tradly.app/api-reference.html',
+          label: 'API Reference',
+          position: 'right',
+        },
+
       ],
     },
     footer: {
@@ -70,15 +76,15 @@ module.exports = {
           items: [
             {
               label: 'Technical Enquiry',
-              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new',
+              href: 'https://community.tradly.app',
             },
             {
               label: 'Submit Bug',
-              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new?assignees=&labels=&template=bug_report.md&title=',
+              href: 'https://tradly.atlassian.net/servicedesk/customer/portals',
             },
             {
               label: 'Feature Request',
-              href: 'https://github.com/TRADLY-PLATFORM/puffin/issues/new?assignees=&labels=&template=feature_request.md&title=',
+              href: 'https://community.tradly.app',
             },
             {
               label: 'Product Roadmap',
@@ -94,8 +100,12 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/TRADLY-PLATFORM/puffin',
+              label: 'Postman Collection',
+              href: 'https://drive.google.com/drive/u/0/folders/16D2oxYs7-7VPkiXPZZ3vsYfqXJNj0RGI',
+            },
+            {
+              label: 'API Reference',
+              href: 'https://portal.tradly.app/api-reference.html',
             },
           ],
         },

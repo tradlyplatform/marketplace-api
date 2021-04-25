@@ -4,11 +4,17 @@ title: Location across apps
 sidebar_label: Location & Map
 ---
 
-There are many places in the app we have used geo location features. There are few ways you can configure them to achieve your business
+User able to add location in different scenarios to help the selling and buying experiences.
+- Sellers able to add locations while their creating the store, this helps when buyers find nearby stores (on collection widget) 
+- Sellers able to add location while adding listings/products (They can opt to remove as well), so their items shows up in listing search.
+
+
+There are few ways you can configure them to achieve your business
 
 Maps we support
 1. Google Maps (Places API)
 2. Openstreet map ()
+3. iOS use Native apple maps. 
 
 Places currently available
 

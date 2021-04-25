@@ -47,11 +47,6 @@ Now you can track our servers reliability if you are in doubt about the performa
 
 Link: http://tradly.freshstatus.io/
 
-
-## Slack Community Channel
-To improve the communication and support to our clients and community members, We have created a minimal version of a community forum. We can communicate with you in realtime. We are working towards to improve the community channel + planning a content roadmap on sharing useful resources.
-
-Want to join? Join using this (it expires in 13days) https://join.slack.com/t/hitradly/shared_invite/zt-kok7udwn-T97lHKZl8IVF7scAzuppZg
  
 This is what we have on production and dozens of other product developments are happening in our TradlyPlatform ecosystem. One of the drastic improvement we are making is improving our SuperAdmin Panel. Stay Tuned! 
 
