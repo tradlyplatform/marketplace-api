@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
-    Introduction: ['doc1','overview', 'tradlyecosystem', 'paymentgateways','revenuemodel', 'commerce-definitions','support','FAQ' ],
+    Introduction: ['doc1','overview', 'tradlyecosystem', , 'commerce-definitions','support','FAQ' ],
     Setup: ['deployment','appcustomisation','testingapp','platform','domain','appstore','playstore','website','email','pushnotification'],
-    Blocks: ['accounts','authsystem','banners','collection','currency','chat','deeplink','delivery','feed','language','listings','location','notification','order','review-ratings','search', 'stripe-onboarding','stripe','subscription','other-blocks'],
+    Blocks: ['accounts','authsystem','banners','collection','currency','chat','deeplink','delivery','feed','language','listings','location','notification','order','paymentgateways','revenuemodel','review-ratings','search', 'stripe-onboarding','stripe','subscription','other-blocks'],
     'Solution Guide': ['education', 'energy', 'food', 'othersolutions'],
     'Marketplace Extensions': ['integrations-overview', 'branch','dlocal','facebookapp','firebase', 'ga','moengage' ,'karix','twilio','google-maps'],
     'Contribute': ['contribute'],

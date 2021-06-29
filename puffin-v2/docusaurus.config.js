@@ -43,12 +43,7 @@ module.exports = {
         },
         
         {
-          href: 'https://drive.google.com/drive/u/0/folders/16D2oxYs7-7VPkiXPZZ3vsYfqXJNj0RGI',
-          label: 'Postman Collection',
-          position: 'right',
-        },
-        {
-          href: 'https://portal.tradly.app/api-reference.html',
+          href: 'https://developer.tradly.app/',
           label: 'API Reference',
           position: 'right',
         },
@@ -100,12 +95,8 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'Postman Collection',
-              href: 'https://drive.google.com/drive/u/0/folders/16D2oxYs7-7VPkiXPZZ3vsYfqXJNj0RGI',
-            },
-            {
               label: 'API Reference',
-              href: 'https://portal.tradly.app/api-reference.html',
+              href: 'https://developer.tradly.app/',
             },
           ],
         },
