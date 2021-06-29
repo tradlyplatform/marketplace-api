@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://portal.tradly.app/blog</id>
+    <title>TradlyPlatform - Guides - Knowledge Base Blog</title>
+    <updated>2021-04-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://portal.tradly.app/blog"/>
+    <subtitle>TradlyPlatform - Guides - Knowledge Base Blog</subtitle>
+    <icon>https://portal.tradly.app/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[2021Q1 Product Updates]]></title>
+        <id>april-update</id>
+        <link href="https://portal.tradly.app/blog/april-update"/>
+        <updated>2021-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a lean startup, we are evolving every day, being open to changes in customer expectation to industry needs. We believe all of our success and customer success depends on the continuous improvement on everything we do. We are experimenting different things, reflecting on and making changes accordingly.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January Product Updates]]></title>
+        <id>january-2021</id>
+        <link href="https://portal.tradly.app/blog/january-2021"/>
+        <updated>2021-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for being great support to us with patience and feedbacks to improve the ecosystem. Every suggestions you give us always help your fellow entreprenuers as well.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020Q4 Product Updates]]></title>
+        <id>december-update</id>
+        <link href="https://portal.tradly.app/blog/december-update"/>
+        <updated>2020-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Listening to wonderful entrepreneurs out is one of the happiest moment we have every day. We listen to their feedbacks, their plans, doubts, etc. We are working towards solving each goal aggressively 😎]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September Product Updates]]></title>
+        <id>september-update</id>
+        <link href="https://portal.tradly.app/blog/september-update"/>
+        <updated>2020-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As always thanks for the support and for sharing about our product to others. We are doing great and we believe you as well 😊.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August Product Updates]]></title>
+        <id>August Product Updates</id>
+        <link href="https://portal.tradly.app/blog/2020/09/12/augustupdate"/>
+        <updated>2020-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello All,]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://portal.tradly.app/blog/welcome"/>
+        <updated>2020-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce our Tradly Platform knowledge portal which includes everything from documentation to detailed recipes on how to build a platform business.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>hello-world</id>
+        <link href="https://portal.tradly.app/blog/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+(self.webpackChunkpuffinv_3=self.webpackChunkpuffinv_3||[]).push([[5457],{5145:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"releases","name":"releases","count":6,"permalink":"/blog/tags/releases"}')}}]);
