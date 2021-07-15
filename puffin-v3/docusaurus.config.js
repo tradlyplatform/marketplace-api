@@ -30,17 +30,19 @@ module.exports = {
       },
       items: [
         {
-          type: 'doc',
-          docId: 'introduction',
-          position: 'left',
-          label: 'Docs',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/TRADLY-PLATFORM',
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'introduction',
+          label: 'Docs',
+        },  
+        
+        {to: '/blog', label: 'Blog', position: 'left'},
+        
       ],
     },
     footer: {
