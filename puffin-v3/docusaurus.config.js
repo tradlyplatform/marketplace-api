@@ -18,7 +18,7 @@ module.exports = {
     algolia: {
       apiKey: '46e3a046b3ec681ea19c49ac9eb069a9',
       indexName: 'tradly_platform',
-      contextualSearch: true,
+      contextualSearch: false,
       appId: 'BH4D9OD16A',
       
     },
